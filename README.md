@@ -1,3 +1,7 @@
+# Parcours français
+
+Ce fork propose un parcours documentaire en français consacré aux contrats d’interopérabilité Across Protocol. Le sommaire et les chapitres sont disponibles dans [docs/fr/](./docs/fr/).
+
 ![Across-logo](https://raw.githubusercontent.com/across-protocol/across-frontend/65abd7772704a9ec243fd370f9e8e76322f0905b/src/assets/logo.svg)
 
 Contains smart contract suite to enable instant token transfers between any two networks. Relays are backstopped by
